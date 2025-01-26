@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Randy Roberts</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Randy Roberts</description>
+    <title>Randy&#39;s Poetry Collection on Randy Roberts</title>
+    <link>http://localhost:1313/poetry/</link>
+    <description>Recent content in Randy&#39;s Poetry Collection on Randy Roberts</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/poetry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>this day 2025-01-23</title>
       <link>http://localhost:1313/poetry/this-day-2025-01-23/</link>
@@ -35,38 +35,6 @@ An intention to be&lt;br&gt;
 A kind companion&lt;/p&gt;
 &lt;p&gt;Randy Roberts January 23, 2025&lt;/p&gt;
 &lt;p&gt;#poetry&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Support</title>
-      <link>http://localhost:1313/support/</link>
-      <pubDate>Sun, 19 Jan 2025 17:59:20 -0600</pubDate>
-      <guid>http://localhost:1313/support/</guid>
-      <description>&lt;p&gt;Your support helps me create. Thank you.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;**[Buy Me a Coffee] coming soon&lt;/li&gt;
-&lt;li&gt;**[Venmo] coming soon&lt;/li&gt;
-&lt;li&gt;**[PayPal] coming soon&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Contact Me</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Sun, 19 Jan 2025 17:47:23 -0600</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m interested in hearing from you. reach out for colloaborations, feedback, or just to say hello.&lt;br&gt;
-email me at randy dot roberts dot 1 at protonmail
-dot com&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 19 Jan 2025 17:47:00 -0600</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I write poetry&lt;br&gt;
-Why? Who knows?&lt;br&gt;
-Why not?&lt;/p&gt;
-&lt;p&gt;I spend my days doing other stuff. But every evening, I spend some time writing poetry.&lt;/p&gt;
-&lt;p&gt;I hope my writing connects&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Diplomat</title>
