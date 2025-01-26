@@ -1,0 +1,48 @@
+baseURL = 'https://randyroberts.me/'
+languageCode = 'en-us'
+title = 'Randy Roberts'
+theme = 'PaperMod'
+
+[params.author]
+  name = "Randy Roberts"
+
+
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  paginate = 10
+
+  # description = "Poetry by Randy Roberts"
+  # images = [""]
+  themeColor = "#494f5c"
+  accentColor = "#018472"
+
+  #homeSubtitle = "poetry by Randy Roberts"
+  footerCopyright = "copyright 2025 Randy Roberts"
+  # footerHideThemeName = true
+
+
+  [menu]
+
+  [[menu.main]]
+    name = "Poetry"
+    url = "poetry/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 20
+  
+  [[menu.main]]
+    name = "Support"
+    url = "support/"
+    weight = 20
+
+    [[menu.main]]
+    name = "Contact"
+    url = "contact/"
+    weight = 20
