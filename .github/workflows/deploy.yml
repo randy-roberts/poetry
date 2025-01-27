@@ -1,39 +1,38 @@
-name: Build and Deploy Hugo Site
+name: GitHub Pages
 
 on:
   push:
     branches:
-      - main  # Trigger when changes are pushed to the main branch
-    paths:
-      - "content/**"    # Trigger for content changes
-      - "layouts/**"    # Trigger for layout changes
-      - "static/**"     # Trigger for static asset changes
-      - "config.toml"   # Trigger for config changes
-  workflow_dispatch: # Allow manual trigger
+      - main  # Set a branch name to trigger deployment
+  pull_request:
 
 jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-
+  deploy:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      # Step 1: Check out the repository
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      # Step 2: Set up Hugo
-      - name: Set up Hugo
+      - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest"
+          hugo-version: '0.110.0'
 
-      # Step 3: Build the Hugo site
-      - name: Build site
+      - name: Build
         run: hugo --minify
 
-      # Step 4: Deploy to gh-pages branch
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        # If you're changing the branch from main,
+        # also change the `main` in `refs/heads/main`
+        # below accordingly.
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public  # Directory to deploy
-          publish_branch: gh-pages  # Branch to deploy to
+          publish_dir: ./public
