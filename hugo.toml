@@ -20,6 +20,9 @@ theme = 'PaperMod'
   themeColor = "#494f5c"
   accentColor = "#018472"
 
+  #google analytics tracking ID
+  googleAnalytics = "G-LQ1HP8399K"
+
   #homeSubtitle = "poetry by Randy Roberts"
   footerCopyright = "copyright 2025 Randy Roberts"
   # footerHideThemeName = true
