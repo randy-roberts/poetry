@@ -14,7 +14,11 @@ theme = 'PaperMod'
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   paginate = 10
-  env = "production"
+  env = "production"  # to enable google analytics, opengraph, twitter-cards and schema.
+  author = "Randy Roberts"
+  DateFormat = "January 2, 2006"
+  timeZone = "America/Chicago"
+  ShowShareButtons = true
 
   # description = "Poetry by Randy Roberts"
   # images = [""]
