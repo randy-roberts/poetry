@@ -53,3 +53,9 @@ theme = 'PaperMod'
     name = "Contact"
     url = "contact/"
     weight = 20
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
