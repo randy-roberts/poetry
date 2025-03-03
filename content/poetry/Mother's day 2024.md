@@ -22,14 +22,14 @@ Radiates
 Peaceful 
 Joyful
 Contentment
-
+   
 I see how challenging 
 Life is for you 
 And how resilient you are
 Your attitude of joyful living 
 Is evident in how you
 Engage with life
-
+  
 You are an embodiment 
 Of love 
 Able to live 
@@ -38,7 +38,7 @@ Be love
 To all lucky enough 
 To have you in
 Our lives
-
+  
 Randy Roberts May 11, 2024
 
  
