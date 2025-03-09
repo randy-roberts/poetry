@@ -10,7 +10,7 @@ status: "[[Ready for Publication]]"
 modified: 2024-10-01 02:10
 locale: Tulsa
 created: 2022-01-10 10:01
-author: "[[Randy Roberts]]"
+author: Randy Roberts
 ---
 
 The hardest lesson has been that life is hard
