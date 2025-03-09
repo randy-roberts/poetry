@@ -1,6 +1,6 @@
 ---
 date: 2025-03-09
-title: Hardest Leason
+title: Hardest Lesson
 created: 2022-01-10 10:01
 modified: 2024-10-01 02:10
 author: Randy Roberts
