@@ -1,18 +1,15 @@
 ---
-date: 2025-02-09
+date: 2025-03-09
 title: Hard leason
-lastmod: 
-publishDate: 
+created: 2022-01-10 10:01
+modified: 2024-10-01 02:10
+author: Randy Roberts
+locale: Tulsa
 tags:
   - poetry
 updated: 2022-01-26 16:32:02Z
 status: "[[Ready for Publication]]"
-modified: 2024-10-01 02:10
-locale: Tulsa
-created: 2022-01-10 10:01
-author: Randy Roberts
 ---
-
 The hardest lesson has been that life is hard
 That's only a problem when wanting it to be different than it is
 But once it is clear that life is hard
