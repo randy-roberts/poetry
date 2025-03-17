@@ -41,5 +41,3 @@ A small
 Win
 
 Randy Roberts October 8, 2024
-
-#poetry 
