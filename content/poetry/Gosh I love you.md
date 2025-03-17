@@ -6,7 +6,7 @@ publishDate: 2025-03-16
 tags:
   - poetry
   - love
-author: "[[Randy Roberts]]"
+author: "Randy Roberts"
 locale: Tulsa
 status: "[[Ready for Publication]]"
 created: 2025-03-15 22:11:14
