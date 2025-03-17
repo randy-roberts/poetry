@@ -1,6 +1,7 @@
 +++ 
 date = '2024-09-13' 
 title = 'The Diplomat'
+author = 'Randy Roberts'
 lastmodlastmod = '2025-01-19'
 publishDate = '2025-01-19'
 +++
