@@ -5,7 +5,7 @@ lastmod:
 publishDate: 
 tags:
   - poetry
-author: "[[Randy Roberts]]"
+author: "Randy Roberts"
 locale: Tulsa
 ---
 Cynicism is an ocean
