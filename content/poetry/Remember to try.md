@@ -1,5 +1,5 @@
 ---
-date: 2025-03-23
+date: 2025-04-06
 title: Remember to try
 lastmod: 
 publishDate: 
