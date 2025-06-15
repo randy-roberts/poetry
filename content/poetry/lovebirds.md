@@ -1,5 +1,5 @@
 ---
-date: <%  tp.file.creation_date() %>
+date: 2025-06-15
 title: lovebirds
 lastmod:
 publishDate:
