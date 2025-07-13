@@ -7,6 +7,7 @@ author: Randy Roberts
 locale: Tulsa
 status: Prep for Publication
 created: 2025-06-20
+title: longest day
 ---
 She says I want to sit  
 Outside on the   

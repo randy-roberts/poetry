@@ -7,6 +7,7 @@ author: Randy Roberts
 locale: Tulsa
 status: Prep for Publication
 created: 2025-07-08
+title: Thunderhead
 ---
 Stunning vision  
 Huge thunderhead   

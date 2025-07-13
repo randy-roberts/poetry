@@ -7,6 +7,7 @@ author: Randy Roberts
 locale: Tulsa
 status: Prep for Publication
 created: 2025-07-09
+title: summer dusk
 ---
 Cicadas singing   
 Full moon rising  
