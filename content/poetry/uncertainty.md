@@ -6,6 +6,7 @@ author: Randy Roberts
 locale: Tulsa
 status: "[[Published]]"
 created: 2025-08-26
+title: uncertainty
 ---
 We hold each other   
 Floating in a sea of  

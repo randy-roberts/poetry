@@ -6,6 +6,7 @@ author: Randy Roberts
 locale: Tulsa
 status: "[[Published]]"
 created: 2025-08-04
+title: her kind heart
 ---
 Strolling in the park  
 She stops and says  

@@ -6,6 +6,7 @@ author: Randy Roberts
 locale: Tulsa
 status: "[[Published]]"
 created: 2025-08-05
+title: connection
 ---
 I reach for her hand  
 She responds to the gesture   

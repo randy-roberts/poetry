@@ -6,6 +6,7 @@ author: Randy Roberts
 locale: Tulsa
 status: "[[Published]]"
 created: 2025-08-04
+title: Nantucket
 ---
 Someone commented on my poetry  
 Saying it was odd, lacking structure,  

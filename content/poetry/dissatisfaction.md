@@ -6,6 +6,7 @@ author: Randy Roberts
 locale: Tulsa
 status: "[[Published]]"
 created: 2025-08-26
+title: dissatisfaction
 ---
 There is a concept of  
 Embracing the dissatisfaction   

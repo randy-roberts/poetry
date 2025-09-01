@@ -6,6 +6,7 @@ author: Randy Roberts
 locale: Tulsa
 status: "[[Published]]"
 created: 2025-08-31
+title: much to offer
 ---
 Engulfed in familial experiences  
 Joy and loss  
